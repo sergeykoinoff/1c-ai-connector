@@ -1,0 +1,40 @@
+# EDT метаданные и кэш
+.metadata/
+.settings/
+*.launch
+.recommenders/
+RemoteSystemsTempFiles/
+
+# 1C временные файлы
+*.bak
+*.txt~
+Ext/
+dt-*.*
+
+# Локальные настройки
+local.properties
+
+# OS файлы
+.DS_Store
+Thumbs.db
+desktop.ini
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+*.code-workspace
+
+# Логи и отладка
+*.log
+debug/
+
+# Compiled files
+*.epf
+*.erf
+*.cf
+
+# Временные файлы
+tmp/
+temp/
