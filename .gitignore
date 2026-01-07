@@ -1,6 +1,5 @@
-# EDT метаданные и кэш
+# EDT / Eclipse кэш
 .metadata/
-.settings/
 *.launch
 .recommenders/
 RemoteSystemsTempFiles/
@@ -8,7 +7,6 @@ RemoteSystemsTempFiles/
 # 1C временные файлы
 *.bak
 *.txt~
-Ext/
 dt-*.*
 
 # Локальные настройки
@@ -30,11 +28,11 @@ desktop.ini
 *.log
 debug/
 
-# Compiled files
+# Compiled / binary
 *.epf
 *.erf
 *.cf
 
-# Временные файлы
+# Временные каталоги
 tmp/
 temp/
