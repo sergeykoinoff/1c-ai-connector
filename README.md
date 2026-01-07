@@ -402,7 +402,7 @@
 ### GigaChat (Сбер)
 1. Зарегистрируйтесь на [developers.sber.ru/gigachat](https://developers.sber.ru/gigachat)
 2. Получите ClientId и ClientSecret
-3. В 1С укажите в формате: `ClientId:ClientSecret`
+3. В 1С укажите в формате: `Authorization key` ИЛИ `ClientId:ClientSecret`
 4. Модуль автоматически обменяет на OAuth2 токен
 
 ### Yandex GPT
