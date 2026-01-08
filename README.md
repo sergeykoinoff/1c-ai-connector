@@ -112,7 +112,7 @@
 
 1. **Скачайте последний релиз**
    - [Releases](https://github.com/andromanpro/1c-ai-connector/releases)
-   - Файл расширения: `КИИ_КоннекторИИ.cfe`
+   - Файл расширения: `IIkona_ConnectorAI_v1.0.1.cfe`
 
 2. **Установите расширение**
 
