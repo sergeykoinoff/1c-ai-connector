@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="9409ca95-8bf0-4aa3-a673-0ae1e4da3c73">
+  <producedTypes>
+    <objectType typeId="017b8372-918a-48e5-b954-05d98178073a" valueTypeId="ea4528d9-da99-4ef1-9306-396e372b6ead"/>
+    <managerType typeId="64d8a44d-dddb-4f74-861b-495060364464" valueTypeId="3685e81e-933d-43ec-a658-9e8736563cdf"/>
+  </producedTypes>
+  <name>КИИ_ТестМаркдаунПарсера</name>
+  <synonym>
+    <key>ru1</key>
+    <value>Тест маркдаун парсера</value>
+  </synonym>
+  <synonym>
+    <key>ru</key>
+    <value>Тест маркдаун парсера</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.КИИ_ТестМаркдаунПарсера.Form.Форма</defaultForm>
+  <includeHelpInContents>true</includeHelpInContents>
+  <help>
+    <pages>
+      <lang>ru</lang>
+    </pages>
+  </help>
+  <forms uuid="bcec29fc-f42d-4ca9-a733-f713894158e9">
+    <name>Форма</name>
+    <synonym>
+      <key>ru1</key>
+      <value>Форма</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="a63c1f63-c359-4482-aa63-785718f098ad">
+    <name>ШаблонHTML</name>
+    <synonym>
+      <key>ru1</key>
+      <value>Шаблон HTML</value>
+    </synonym>
+    <synonym>
+      <key>ru</key>
+      <value>Шаблон HTML</value>
+    </synonym>
+    <templateType>TextDocument</templateType>
+  </templates>
+</mdclass:DataProcessor>

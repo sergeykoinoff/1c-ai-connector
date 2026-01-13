@@ -19,7 +19,6 @@
   <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="95f95160-fb9a-4d7e-8046-d4baf591a9d5"/>
   <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="9ccf9f3d-a4e1-47ed-a7ed-a354aed4f123"/>
   <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="066f8903-c1a5-4d8b-9685-00beaf8286da"/>
-  <keepMappingToExtendedConfigurationObjectsByIDs>true</keepMappingToExtendedConfigurationObjectsByIDs>
   <namePrefix>КИИ_</namePrefix>
   <configurationExtensionCompatibilityMode>8.3.24</configurationExtensionCompatibilityMode>
   <configurationExtensionPurpose>Customization</configurationExtensionPurpose>
@@ -27,7 +26,7 @@
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
   <vendor>Androman.pro</vendor>
-  <version>1.0.0</version>
+  <version>1.0.2</version>
   <copyright>
     <key>ru</key>
     <value>Copyright (c) 2026 Androman.pro </value>
@@ -44,7 +43,10 @@
   <languages uuid="e6ba2103-1c43-46a8-927f-e84b27f1f54c">
     <name>Русский</name>
     <objectBelonging>Adopted</objectBelonging>
-    <extension xsi:type="mdclassExtension:LanguageExtension"/>
+    <extension xsi:type="mdclassExtension:LanguageExtension">
+      <languageCode>Checked</languageCode>
+    </extension>
+    <languageCode>ru</languageCode>
   </languages>
   <subsystems>Subsystem.КИИ_Коннектор</subsystems>
   <subsystems>Subsystem.КИИ_КоннекторСлужебная</subsystems>
@@ -58,5 +60,6 @@
   <enums>Enum.КИИ_ТипыАвторизации</enums>
   <enums>Enum.КИИ_ТипыФорматовAPI</enums>
   <dataProcessors>DataProcessor.КИИ_ТестИИ</dataProcessors>
+  <dataProcessors>DataProcessor.КИИ_ТестМаркдаунПарсера</dataProcessors>
   <informationRegisters>InformationRegister.КИИ_ЛогЗапросовИИ</informationRegisters>
 </mdclass:Configuration>

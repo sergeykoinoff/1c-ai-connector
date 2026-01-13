@@ -114,6 +114,17 @@
 		</right>
 	</object>
 	<object>
+		<name>DataProcessor.КИИ_ТестМаркдаунПарсера</name>
+		<right>
+			<name>Use</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>Catalog.КИИ_МоделиИИ</name>
 		<right>
 			<name>Read</name>

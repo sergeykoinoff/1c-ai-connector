@@ -22,4 +22,5 @@
   <content>DataProcessor.КИИ_ТестИИ</content>
   <content>InformationRegister.КИИ_ЛогЗапросовИИ</content>
   <content>CommonPicture.КИИ_КартинкаПодсистемы</content>
+  <content>DataProcessor.КИИ_ТестМаркдаунПарсера</content>
 </mdclass:Subsystem>
