@@ -1,4 +1,0 @@
-#Key and value types
-#Tue Jan 13 23:59:07 MSK 2026
-keyType=java.lang.String
-valueType=com.github._1c_syntax.bsl.languageserver.diagnostics.typo.WordStatus
