@@ -40,3 +40,7 @@ temp/
 # SonarQube
 sonar-project.properties
 sonar-scanner.bat
+.scannerwork/
+.sonar/
+out/
+${app.cache.fullPath}
