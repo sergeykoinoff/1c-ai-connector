@@ -1,10 +1,12 @@
 # ИИкона — AI-коннектор для 1С:Предприятие
 
 > Библиотека для интеграции языковых моделей (LLM) в конфигурации 1С:Предприятие 8.3
-
+> 
+[![Infostart](https://infostart.ru/bitrix/templates/sandbox_empty/assets/tpl/abo/img/logo.svg)]([https://infostart.ru/public/ID_ТВОЕЙ_ПУБЛИКАЦИИ/](https://infostart.ru/1c/articles/2585691/))
 [![Лицензия: MIT](https://img.shields.io/badge/Лицензия-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![1С:Предприятие](https://img.shields.io/badge/1С-8.3-blue)](https://1c.ru)
 [![Версия](https://img.shields.io/badge/версия-1.0.0-green)](https://github.com/andromanpro/1c-ai-connector/releases)
+
 
 ## 🎯 О проекте
 
